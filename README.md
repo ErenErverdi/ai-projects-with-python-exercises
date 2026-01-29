@@ -1,2 +1,13 @@
-# ai-projects-with-python-exercises
-AI related exercises and small problem solutions developed during a university course using Python.
+# AI Python Exercises
+
+This repository contains AI related exercises and small problem solutions developed as part of a university course.
+
+## Exercise Descriptions
+
+**Exercise01**
+- Dataset: diabetes.csv  
+- Task: Predict diabetes outcome with KNN algorithm.
+- Techniques: Data visualization, normalization, KNN 
+
+
+
